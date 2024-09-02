@@ -30,4 +30,4 @@ function getAge(birthdayValue) {
   return age;
 }
 
-btnElement.addEventListener("click", calculateAge);
+btnElement.addEventListener("click", calculateUserAge);
