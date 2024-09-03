@@ -108,6 +108,10 @@ button:hover {
   scale: 1.1;
 }
 
+button:active {
+  scale: 0.9;
+}
+
 #result {
   margin-top: 20px;
   font-size: 24px;
